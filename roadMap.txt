@@ -1,0 +1,5 @@
+- Refactor do código;
+- Implementação de autenticação;
+- Criação de tela de cadastro de usuário;
+- Implementação de um framework;
+- Criação do banco de dados e persistência das conversas;
